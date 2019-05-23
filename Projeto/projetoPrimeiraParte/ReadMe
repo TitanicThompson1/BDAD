@@ -1,0 +1,5 @@
+Comentários do prof:
+
+- Os videos favoritos aparecem na descrição mas não no diagrama de classes.
+- faltam os atributos para classificar e efetuar crítica aos videos pelos clientes.
+- Faltam algumas regras de negócio. Por exemplo: nº de temporadas >= 0
