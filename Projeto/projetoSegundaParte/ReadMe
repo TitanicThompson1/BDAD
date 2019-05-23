@@ -1,0 +1,6 @@
+Comentarios do professor:
+
+- O mapeamento da associação entre cliente e subscrição não está correta. Como está no diagrama de classes é uma associação 1-1 o que implicaria que tipo fosse chave candidata em Cliente.
+- A chave da relação subscrição não faz sentido. Assinala-se só a chave primária. Como está parece que a chave primária é constituída pelos atributos todos, que não é o que pretendem.
+- Era melhor criar um id nas relações resultantes do mapeamento de classes. Especialmente quando a alternativa é ter chaves primárias com mais de um atributo nessas relações. Isso obriga a ter chaves externas com vários atributos o que torna o modelo relacional mais complicado.
+- Na tabela Cliente falta definir Stipo como chave externa para Subscricao
