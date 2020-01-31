@@ -5,4 +5,4 @@
 Aqui se encontra o projeto final da cadeira.
 
 ## Recomendações
-Amiguinhos, fiquem com o João Moreira, da belas notas no projeto. Aprovo.
+Professor João Moreira
