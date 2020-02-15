@@ -4,5 +4,3 @@
 ## Conteudo
 Aqui se encontra o projeto final da cadeira.
 
-## Recomendações
-Professor João Moreira
